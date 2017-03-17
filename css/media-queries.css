@@ -1,0 +1,663 @@
+
+/************************************************************************************
+smaller than 1280
+*************************************************************************************/
+@media screen and (max-width: 1680px) {
+
+}
+
+/************************************************************************************
+smaller than 1280
+*************************************************************************************/
+@media screen and (max-width: 1280px) {
+
+}
+
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 1024px) {
+.addressBox{
+	font-size:15px;
+}
+.phoneBox{
+	font-size:15px;
+}
+.bannerInfo h1{
+	font-size:60px;
+}
+.buttonIn1 a{
+	font-size:14px;
+}
+.bannerInfo{
+	margin-top:23px;
+}
+.buttonIn4 a{
+	padding: 12px 27px;
+	font-size: 14px;
+}
+.leftBarContent{
+	padding-top:26px;
+	font-size:12px;
+}
+.leftBoxIn h1{
+	font-size:35px;
+}
+.buttonIn5 a{
+	padding: 17px 19px;
+}
+.boxInner {
+    width: 31%;
+}
+.socialIcon ul li{
+	font-size:90px;
+}
+.footerLink ul li a{
+	font-size:13px;
+}
+.navbar-default .navbar-nav > li > a{
+	margin: 24px 14px 0;
+}
+.bannerInfo1 h1{
+	font-size:25px;
+}
+.bannerInfo1 p{
+	font-size: 13px;
+    line-height: 20px;
+	padding: 8px 0 0;
+}
+.bannerInfo1{
+	width:52%;
+	padding:10px 20px;
+}
+.bannerInfoBottom{
+	width:52%;
+}
+.imageMan {
+    margin: -84px 0 0 -36px;
+}
+.socialIcon ul li{
+	padding:0 9px;
+}
+.liBox ul{
+	padding-right:65px;
+}
+.boxIn1 p{
+	font-size:13px;
+}
+.borderBox h1{
+	font-size:32px;
+}
+.buttonIn6 a{
+	 font-size:22px;
+	padding:12px;
+}
+.buttonIn6 a:hover {
+    font-size:22px;
+    padding: 12px;
+}
+.quantity_sec{
+	width:43%;
+}
+}
+
+/************************************************************************************
+smaller than 1024
+*************************************************************************************/
+@media screen and (max-width: 980px) {
+
+}
+/************************************************************************************
+smaller than 768
+*************************************************************************************/
+@media screen and (max-width: 768px) {
+.topLink ul li a{
+	font-size: 11px;
+	padding-right: 0;
+}
+.addressBox {
+    font-size: 11px;
+}
+.phoneBox {
+    font-size: 11px;
+	margin: 0 0 0 176px;
+}
+.navbar-default .navbar-nav > li > a{
+	font-size:12px;
+	margin:25px 15px 0;
+}
+.bannerInfo h1 {
+    font-size: 35px;
+}
+.bannerInfo p{
+	font-size:17px;
+}
+.buttonIn1 a{
+	padding:5px 12px;
+}
+.buttonIn1{
+	margin: 20px auto 13px;
+}
+.boxIn1 h1{
+	font-size:19px;
+}
+.boxIn1{
+	margin-left:2px;
+}
+.slideArrowRight{
+	margin-top:117px;
+}
+.slideArrowLeft{
+	margin-top:117px;
+}
+.leftBar{
+	padding:23px 20px;
+	font-size: 16px
+}
+.leftBoxIn h1 {
+    font-size: 25px;
+}
+.leftBoxIn h6{
+	font-size:13px;
+}
+.imageBody{
+	float:none;
+	text-align:center;
+}
+.newsLetterBox ul li{
+	font-size:22px;
+}
+.formBgIn input{
+	width:97%;
+}
+.socialIcon ul li {
+    font-size: 59px;
+}
+.leftBarContent {
+    font-size: 12px;
+    padding-top: 23px;
+}
+
+.bannerInfo1 h1 {
+    font-size: 15px;
+}
+.bannerInfo1{
+	width:46%;
+	margin:5px 0 0 0;
+	padding: 4px 20px;
+}
+.inputInInfo{
+	width:59%;
+}
+.bannerInfoBottom{
+	width:46%;
+}
+.bannerInfo1 p {
+    font-size: 11px;
+    line-height:15px;
+}
+.buttonIn1{
+	margin:0 0 0 11%;
+}
+.boxIn1 p{
+	font-size:13px;
+}
+.mainHeading{
+	padding-top:24px;
+}
+.buttonIn6 a{
+	 font-size:14px;
+	padding:12px;
+}
+.buttonIn6 a:hover {
+    font-size:14px;
+    padding: 12px;
+}
+.addressTop ul li{
+	font-size:13px;
+}
+.topBgLink{
+	padding: 12px 5px 0;
+}
+.topBgLink1 ul li a{
+	padding:0 6px;
+}
+.formBox{
+	padding-bottom:34px;
+}
+.imageMan{
+	margin: -84px 0 0 -55px;
+}
+.bookImg {
+    width: 29%;
+}
+.bookBoxInfo h6{
+	padding:0px;
+}
+.bookBoxInfo{
+	margin-bottom:10px;
+}
+.blogImage{
+	width:33%;
+}
+.getBox input{
+	font-size:12px;
+}
+.formBgIn1 input{
+	font-size:13px;
+}
+.quantity_sec {
+    width: 50%;
+}
+.pricetext{
+	font-size:20px;
+	margin-right:0px;
+}
+}
+
+/************************************************************************************
+smaller than 767
+*************************************************************************************/
+@media screen and (max-width: 767px) {
+.logo{
+	position: static;
+    text-align: center;
+    width: 100%;
+}
+.topBar{
+	height:auto;
+}
+.phoneBox{
+	text-align:center;
+	float:none;
+	margin:10px auto;
+	display:table;
+	font-size:15px;
+}
+.topBarIn{
+	position:static;
+}
+.addressBox{
+	margin:10px auto;
+	display:table;
+	text-align:center;
+	float:none;
+	font-size:18px;
+}
+.topLink{
+	float:none;
+	display:table;
+	margin:10px auto;
+	clear:both;
+}
+.topLink ul li a {
+    font-size: 16px;
+    padding-right:10px;
+}
+.navigationBox{
+	float:none;
+}
+.navbar-default .navbar-nav > li > a{
+	margin: 15px 7px 0 33px;
+}
+.boxIn1None{
+	width:48%;
+	display:block !important;
+	margin:0 0 0 22%;
+}
+.boxIn1{
+	display:none;
+}
+.boxInnerImg{
+	height:auto;
+}
+.video{
+	text-align:center;
+	width:100%;
+	margin:20px auto;
+}
+.leftBar strong{
+	display:none;
+}
+.leftBar{
+	width:100%;
+	text-align:center;
+}
+.leftBarContent{
+	width:100%;
+	font-size:20px;
+	text-align:center;
+	padding:0 0 20px 0;
+	margin:0px;
+}
+.leftBoxIn h1{
+	text-align:center;
+}
+.leftBoxIn h6{
+	text-align:center;
+}
+.formBg{
+	width:100%;
+	margin-bottom:10px;
+}
+.buttonIn4{
+	margin:10px auto 0 auto;
+	display:table;
+	float:none;
+}
+.newsLetterBox ul li{
+	width:100%;
+	margin:0 0 10px 0;
+}
+.newsletterBg {
+    background-color:#e8e8e8;
+    width: 100%;
+	text-align:center;
+}
+.footerHeading{
+	text-align:center;
+}
+.mapBox{
+	width:100%;
+	text-align:center;
+}
+.socialIcon ul li{
+	display:block;
+	text-align:center;
+}
+.footerLink{
+	margin:auto;
+	display:table;
+}
+.tweetsBox {
+    margin: auto;
+    text-align: center;
+}
+.textFoot{
+	float:none;
+	text-align:center;
+}
+.imageTweet{
+	width:100%;
+}
+.navigationBox{
+	background:url(../images/naviBg.jpg) repeat-x;
+	width:100%;
+	height:auto;
+}
+.boxOuter{
+	z-index:1;
+}
+.leftBarMian{
+	background:none;
+	float:none;
+	width:auto;
+}
+.navbar-nav{
+	background:#000000;
+}
+
+.slideArrowRight{
+	margin-top:80px;
+}
+.slideArrowLeft{
+	margin-top:80px;
+}
+.bannerInfo {
+    margin-right: 20px;
+    margin-top: 83px;
+}
+.doteIn{
+	margin-right:20px;
+}
+.socialIcon ul li {
+	padding:0 0 20px 0;
+}
+.mainBoxFoot{
+	margin:auto;
+	display:table;
+}
+.mainBoxFoot1{
+	display:none;
+}
+.tweetIn ul li{
+	display:inline-block;
+}
+.logo1{
+	display:table;
+}
+.logo{
+	display:none;
+}
+.addressTop{
+	display:table;
+	margin:auto;
+}
+.topBgLink{
+	display:table;
+	margin:10px auto 0 auto;
+	float:none;
+}
+.mainHeading{
+	margin-right:20px;
+}
+.headingInner{
+	text-align:center;
+}
+.infoText{
+	text-align:center;
+}
+.liBox ul{
+	float:none;
+	display:table;
+	margin:auto;
+}
+.aboutImg{
+	text-align:center;
+}
+.bookImg{
+	float:none;
+	display:table;
+	margin:auto;
+}
+.bookBoxInfo{
+	display:table;
+	margin:auto;
+	float:none;
+}
+
+.imageInner{
+	text-align:center;
+}
+.formBoxIn input{
+	width:100%;
+}
+#borderBoxOut1{
+	margin-bottom:40px;
+}
+.iconGuarantee{
+	margin-bottom:20px;
+}
+.textFoot{
+	padding-bottom:20px;
+}
+.boxInnerLeft{
+	width:100%;
+	margin:0px;
+}
+.boxHeading::after{
+	width: 1095%;
+}
+.nutritionImg{
+	float:none;
+	display:table;
+	margin:auto;
+}
+.productBox{
+	width:100%;
+	margin-right:0px;
+	text-align:center;
+}
+.bannerInfoBottom img{
+	display:none;
+}
+.textFoot{
+	display:none;
+}
+.textFoot1{
+	display:block;
+	text-align:center;
+	padding:10px 0 0 0;
+}
+.buttonIn3 a{
+	padding: 12px 19px;;
+}
+.loginForm{
+	width:100%;
+}
+.loginIcon{
+	padding:10px 0 0 0;
+}
+.blogImage{
+	width:100%;
+}
+.blogInfo{
+	display:inline-block;
+	padding-top:20px;
+}
+.imageMan {
+    margin: -84px 0 0 -6px;
+}
+.productDetail{
+	display: inline-block;
+    margin-bottom: 20px;
+    text-align: center;
+	width:100%;
+}
+.productHeading1{
+	text-align:center;
+}
+.pricetext{
+	text-align:center;
+	width:100%;
+}
+.quantity_sec {
+    width: 74%;
+	display:table;
+	margin:10px auto 0 auto;
+}
+}
+
+/************************************************************************************
+smaller than 736
+*************************************************************************************/
+@media screen and (max-width: 736px) {
+.bannerInfo1{
+	display:none;
+}
+.buttonIn1{
+	display:none;
+}
+}
+
+/************************************************************************************
+smaller than 667
+*************************************************************************************/
+@media screen and (max-width: 667px) {
+.bannerInfo h1 {
+    font-size: 18px;
+}
+.bannerInfo p {
+    font-size: 11px;
+}
+.buttonIn1 a {
+    padding: 6px 12px;
+	font-size:12px;
+}
+.buttonIn1 {
+    margin: 4px auto 1px;
+}
+.bannerInfo {
+    margin-top: 83px;
+	margin-right:20px;
+}
+.doteIn{
+	margin-right:20px;
+}
+.mainHeading{
+	font-size:35px;
+}
+.doteOuter{
+	display:none;
+}
+}
+/************************************************************************************
+smaller than 360
+*************************************************************************************/
+@media screen and (max-width: 480px) {
+.bannerInfo{
+	display:none;
+}
+.doteIn{
+	display:none;
+}
+.mainHeading{
+	font-size:20px;
+	padding-top:10px;
+}
+.nav > li:first-child:hover{
+	background:none;
+}
+.nav > li:first-child.active{
+	background:none;
+}
+.nav > li:nth-child(2):hover{
+	background:none;
+}
+.nav > li:nth-child(2).active{
+	background:none;
+}
+.nav > li:nth-child(3):hover{
+	background:none;
+}
+.nav > li:nth-child(3).active{
+	background:none;
+}
+.nav > li:nth-child(4):hover{
+	background:none;
+}
+.nav > li:nth-child(4).active{
+	background:none;
+}
+.nav > li:nth-child(5):hover{
+	background:none;
+}
+.nav > li:nth-child(5).active{
+	background:none;
+}
+.nav > li:nth-child(6):hover{
+	background:none;
+}
+.nav > li:nth-child(6).active{
+	background:none;
+}
+.boxIn1None{
+	display:block !important;
+	margin: 0 0 0 14%;
+    width: 64%;
+}
+.slideArrowLeft {
+    margin-top: 133px;
+}
+.slideArrowRight{
+	margin-top:133px;
+}
+
+}
+
+/************************************************************************************
+smaller than 320
+*************************************************************************************/
+@media screen and (max-width: 320px) {
+
+}
